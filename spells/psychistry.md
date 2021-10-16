@@ -49,3 +49,4 @@ If the caster wins, they may implant a course of action as per the 5e suggestion
 If the target learns they have been incepted, they can repeat the insight attempt to defeat the inception.  
 
 
+just doing it w github for a change why not?
